@@ -1,0 +1,10 @@
+release/dialog.o
+release/dialog1.o
+release/dialog2.o
+release/main.o
+release/mainwindow.o
+release/qrc_picture.o
+release/moc_dialog.o
+release/moc_dialog1.o
+release/moc_dialog2.o
+release/moc_mainwindow.o
